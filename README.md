@@ -10,3 +10,4 @@
 <a href="https://www.imooc.com/article/31751">进程、线程、协程、队列的详解</a></br>
 <a href="https://tech.meituan.com/mybatis_cache.html">聊聊MyBatis缓存机制</a></br>
 <a href="https://www.jianshu.com/p/210eab345423">线程池，这一篇或许就够了</a></br>
+<a href="https://www.cnblogs.com/dolphin0520/p/3811437.html">深入理解Java的接口和抽象类</a></br>

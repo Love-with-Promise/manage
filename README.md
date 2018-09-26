@@ -15,3 +15,12 @@
 <a href="https://www.cnblogs.com/chengxiao/p/6129630.html">图解排序算法(三)之堆排序</a></br>
 <a href="https://blog.csdn.net/LYJwonderful/article/details/80304660">堆的简单应用——TopK</a></br>
 
+
+<3>常见笔试错误题</h3>
+<a href="https://www.cnblogs.com/superFish2016/p/6687549.html">try catch finally 执行顺序面试题总结</a></br>
+<a href="https://blog.csdn.net/u012110719/article/details/46316627">面试题：short s1=1;s1=s1+1;有什么错？short s2=1;s2+=1;有什么错？</a></br>
+Java中整型常量数值的默认类型是int类型;Java中的浮点型常量数值默认是double类型
+<a href="https://www.cnblogs.com/liutianci/p/8443372.html">基本数据类型float和double的区别</a></br>
+<a href="https://blog.csdn.net/qiaoijun/article/details/48878039">Integer a= 127 与 Integer b = 127</a></br>
+<a href="https://www.cnblogs.com/hglibin/p/9425306.html">【笔试题】Java笔试题易错精选</a></br>
+<a href="https://blog.csdn.net/qq_27258799/article/details/51194598">Java继承、多态面试题</a></br>

@@ -11,3 +11,7 @@
 <a href="https://tech.meituan.com/mybatis_cache.html">聊聊MyBatis缓存机制</a></br>
 <a href="https://www.jianshu.com/p/210eab345423">线程池，这一篇或许就够了</a></br>
 <a href="https://www.cnblogs.com/dolphin0520/p/3811437.html">深入理解Java的接口和抽象类</a></br>
+
+<a href="https://www.cnblogs.com/chengxiao/p/6129630.html">图解排序算法(三)之堆排序</a></br>
+<a href="https://blog.csdn.net/LYJwonderful/article/details/80304660">堆的简单应用——TopK</a></br>
+

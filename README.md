@@ -44,5 +44,5 @@ Java中整型常量数值的默认类型是int类型;Java中的浮点型常量�
 <a href="https://my.oschina.net/chener/blog/1603098">Mysql索引为啥要用B+树</a></br>
 <a href="https://blog.csdn.net/u014590757/article/details/80208923">HashMap里的红黑树是什么</a></br>
 <a href="http://www.cnblogs.com/CarpenterLee/p/5503882.html">史上最清晰的红黑树讲解（上）</a></br>
-<a href="https://blog.csdn.net/lurao/article/details/51225842">java中静态块，静态方法，非静态方法，构造方法执行的顺序</a></br>
+<a href="https://www.sunjs.com/article/detail/a17956c49cc14799b6604bb1b58c66c8.html">掌握MySQL数据库这些优化技巧，事半功倍！</a></br>
 <a href="https://blog.csdn.net/yuanmoxun0217/article/details/80939114">Java中try catch finally的使用</a></br>

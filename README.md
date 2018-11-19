@@ -40,11 +40,25 @@ Java中整型常量数值的默认类型是int类型;Java中的浮点型常量�
 <a href="https://blog.csdn.net/tomcat_2014/article/details/60135152">java并发学习之BlockingQueue实现生产者消费者</a></br>
 <a href="https://blog.csdn.net/zhuanzhe117/article/details/78039692">B树与B+树简明扼要的区别</a></br>
 <a href="https://blog.csdn.net/bigtree_3721/article/details/78172634?locationNum=5&fps=1">二叉查找树，红黑树，AVL树，B~/B+树(B-tree)，伸展树——优缺点及比较</a></br>
-<a href="https://blog.csdn.net/plg17/article/details/78758593">	
-图解MySQL 内连接、外连接、左连接、右连接、全连接……太多了</a></br>
+<a href="https://blog.csdn.net/plg17/article/details/78758593">	图解MySQL 内连接、外连接、左连接、右连接、全连接……太多了</a></br>
 <a href="http://developer.51cto.com/art/201009/227274.htm">揭秘Java内存泄露与溢出的区别</a></br>
 <a href="https://my.oschina.net/chener/blog/1603098">Mysql索引为啥要用B+树</a></br>
 <a href="https://blog.csdn.net/u014590757/article/details/80208923">HashMap里的红黑树是什么</a></br>
 <a href="http://www.cnblogs.com/CarpenterLee/p/5503882.html">史上最清晰的红黑树讲解（上）</a></br>
 <a href="https://www.sunjs.com/article/detail/a17956c49cc14799b6604bb1b58c66c8.html">掌握MySQL数据库这些优化技巧，事半功倍！</a></br>
 <a href="https://www.jianshu.com/p/e8bbee3c1c4a">java中error和exception的区别</a></br>
+<a href="http://developer.51cto.com/art/201009/227274.htm">揭秘Java内存泄露与溢出的区别</a></br>
+<a href="https://blog.csdn.net/guaiguaihenguai/article/details/80303835">死锁的四个必要条件和解决办法</a></br>
+<a href="http://www.cnblogs.com/binyue/p/3862276.html">理解Java中的引用传递和值传递</a></br>
+<a href="https://blog.csdn.net/java_zero2one/article/details/51477791">并发与并行的区别</a></br>
+<a href="https://blog.csdn.net/lufeng20/article/details/24314381">彻底理解ThreadLocal</a></br>
+<a href="https://blog.csdn.net/stilling2006/article/details/8526458">SQL注入原理讲解，很不错！</a></br>
+<a href="https://blog.csdn.net/baiye_xing/article/details/71788741?utm_source=blogkpcl3">【Java深入】深拷贝与浅拷贝详解</a></br>
+<a href="https://www.jb51.net/article/116039.htm">【MyBatis源码全面解析】MyBatis一二级缓存介绍</a></br>
+<a href="https://www.cnblogs.com/luoxn28/p/5932648.html">MyBatis源码分析-SQL语句执行的完整流程</a></br>
+<a href="https://blog.csdn.net/hero_myself/article/details/52080969">数据结构中常用的树</a></br>
+<a href="http://www.snowruin.com/?p=1665">Mysql的explain参数详解</a></br>
+<a href="https://www.jianshu.com/p/a533cbb740c6">java中的CAS和原子类的实现</a></br>
+<a href="http://www.importnew.com/16301.html">HashMap的实现原理</a></br>
+<a href="https://www.cnblogs.com/sunny3096/p/8590901.html">MyBatis中#和的区别</a></br>
+<a href="https://blog.csdn.net/Shine_rise/article/details/54934242">SQL中where, group by, having的用法和区别</a></br>

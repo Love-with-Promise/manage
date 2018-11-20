@@ -64,3 +64,4 @@ Java中整型常量数值的默认类型是int类型;Java中的浮点型常量�
 <a href="https://blog.csdn.net/Shine_rise/article/details/54934242">SQL中where, group by, having的用法和区别</a></br>
 
 <a href="https://www.cnblogs.com/aspirant/p/6789040.html?utm_source=itdadao&utm_medium=referral">try catch finally 用法</a></br>
+<a href="https://blog.csdn.net/mxd446814583/article/details/80355572">java中关于try、catch、finally中的细节分析</a></br>

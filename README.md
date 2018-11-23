@@ -53,7 +53,7 @@ Java中整型常量数值的默认类型是int类型;Java中的浮点型常量�
 <a href="https://blog.csdn.net/java_zero2one/article/details/51477791">并发与并行的区别</a></br>
 <a href="https://blog.csdn.net/lufeng20/article/details/24314381">彻底理解ThreadLocal</a></br>
 <a href="https://blog.csdn.net/stilling2006/article/details/8526458">SQL注入原理讲解，很不错！</a></br>
-<a href="https://blog.csdn.net/baiye_xing/article/details/71788741?utm_source=blogkpcl3">【Java深入】深拷贝与浅拷贝详解</a></br>
+<a href="https://my.oschina.net/jackieyeah/blog/206391">Java 深拷贝和浅拷贝</a></br>
 <a href="https://www.jb51.net/article/116039.htm">【MyBatis源码全面解析】MyBatis一二级缓存介绍</a></br>
 <a href="https://www.cnblogs.com/luoxn28/p/5932648.html">MyBatis源码分析-SQL语句执行的完整流程</a></br>
 <a href="https://blog.csdn.net/hero_myself/article/details/52080969">数据结构中常用的树</a></br>

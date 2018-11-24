@@ -46,6 +46,7 @@ Java中整型常量数值的默认类型是int类型;Java中的浮点型常量�
 <a href="https://blog.csdn.net/u014590757/article/details/80208923">HashMap里的红黑树是什么</a></br>
 <a href="http://www.cnblogs.com/CarpenterLee/p/5503882.html">史上最清晰的红黑树讲解（上）</a></br>
 <a href="https://www.sunjs.com/article/detail/a17956c49cc14799b6604bb1b58c66c8.html">掌握MySQL数据库这些优化技巧，事半功倍！</a></br>
+<a href="https://blog.csdn.net/SYoung_7/article/details/80277917">请解释“&”和“&&”的区别？“|”和“||”的区别？</a></br>
 <a href="https://www.jianshu.com/p/e8bbee3c1c4a">java中error和exception的区别</a></br>
 <a href="http://developer.51cto.com/art/201009/227274.htm">揭秘Java内存泄露与溢出的区别</a></br>
 <a href="https://blog.csdn.net/guaiguaihenguai/article/details/80303835">死锁的四个必要条件和解决办法</a></br>
@@ -67,3 +68,4 @@ Java中整型常量数值的默认类型是int类型;Java中的浮点型常量�
 <a href="https://blog.csdn.net/mxd446814583/article/details/80355572">java中关于try、catch、finally中的细节分析</a></br>
 <a href="https://blog.csdn.net/xlgen157387/article/details/78297568">Java多线程编程-（8）-多图深入分析ThreadLocal原理</a></br>
 <a href="https://www.cnblogs.com/lanxuezaipiao/p/3371224.html">精选30道Java笔试题解答</a></br>
+<a href="https://www.cnblogs.com/yangyquin/p/4921616.html">Linux命令面试常考的简单汇总</a></br>

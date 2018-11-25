@@ -70,3 +70,5 @@ Java中整型常量数值的默认类型是int类型;Java中的浮点型常量�
 <a href="https://www.cnblogs.com/yangyquin/p/4921616.html">Linux命令面试常考的简单汇总</a></br>
 <a href="https://www.imuo.com/a/f68d8bc5acfde467295195822f093b447b5c0e0e0a54e86726d62c0cd5a06008">linux常用命令大全</a></br>
 <a href="http://www.importnew.com/17354.html">Java开发必会的Linux命令</a></br>
+<a href="https://blog.csdn.net/qq_33290787/article/details/51924963">理解事务的4种隔离级别</a></br>
+<a href="https://tech.meituan.com/innodb_lock.html">Innodb中的事务隔离级别和锁的关系</a></br>

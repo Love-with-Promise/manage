@@ -1,0 +1,8 @@
+<h3>架构中的设计原则，需要遵循面向对象的设计原则：</h3>
+单一职责原则（Single Responsibility Principle） SRP：系统中的每一个对象都应该只有一个单独的职责，而所有对象所关注的就是自身职责的完成</br>
+里氏替换原则（Liskov Substitution Principle，LSP）：在任何父类出现的地方都可以用它的子类来替代</br>
+依赖注入原则（Dependence Inversion Principle，DIP）：要依赖于抽象，不要依赖于具体的实现
+接口分离原则（Interface Segregation Principle，ISP）：不应该强迫客户程序依赖它们不需要使用的方法。一个接口不需要提供太多的行为，一个接口应该只提供一种对外的功能，不应该把所有的操作都封装到一个接口中。
+迪米特原则（Law of Demeter，LoD）：一个对象应当对其他对象尽可能少的了解。意思就是降低各个对象之间的耦合，提高系统的可维护性。
+开闭原则（Open Closed Principle，OCP）：一个对象对扩展开放，对修改关闭。对类的改动是通过增加代码进行的，而不是改动现有的代码。
+

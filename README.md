@@ -72,3 +72,7 @@ Java中整型常量数值的默认类型是int类型;Java中的浮点型常量�
 <a href="http://www.importnew.com/17354.html">Java开发必会的Linux命令</a></br>
 <a href="https://blog.csdn.net/qq_33290787/article/details/51924963">理解事务的4种隔离级别</a></br>
 <a href="https://tech.meituan.com/innodb_lock.html">Innodb中的事务隔离级别和锁的关系</a></br>
+<a href="http://www.php.cn/mysql-tutorials-410177.html">如何理解数据库事务隔离级别及脏读、不可重复读、幻读</a></br>
+<a href="https://juejin.im/post/5b8577c26fb9a01a143fe04e">详解 MySql InnoDB 中的三种行锁（记录锁、间隙锁与临键锁）</a></br>
+<a href="https://blog.csdn.net/Dove_Knowledge/article/details/71434960">数据库-第一范式、第二范式、第三范式、BC范式、第四范式简析</a></br>
+<a href="http://c.biancheng.net/design_pattern/">Java设计模式_23种设计模式全面解析（超级详细）</a></br>

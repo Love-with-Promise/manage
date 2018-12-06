@@ -80,3 +80,4 @@ Java中整型常量数值的默认类型是int类型;Java中的浮点型常量�
 <a href="https://blog.csdn.net/qq_16811963/article/details/52194039">JAVA中的阻塞队列</a></br>
 <a href="https://juejin.im/post/5b00c52ef265da0b95276091">Spring事务管理详解</a></br>
 <a href="https://juejin.im/post/5b010f27518825426539ba38">Spring编程式和声明式事务实例讲解</a></br>
+<a href="https://www.cnblogs.com/selene/p/4518246.html">Forward和Redirect的区别</a></br>

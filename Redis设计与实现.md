@@ -61,3 +61,4 @@
 <li>添加元素:zadd key score member[score member...]</li>
 <li>获得元素分数:zscore key member</li>
 </ul>
+Redis数据库保存的键值对来说，键总是一个字符串对象，而值则可以是字符串对象、列表对象、哈希对象、集合对象、或者有序集合对象的其中一种。

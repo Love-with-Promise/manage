@@ -15,3 +15,7 @@ XML文档解析之后转换到GenericBeanDefinition，XML中所有的配置都�
 一般情况下，Spring通过反射机制利用bean的class属性指定实现类来实例化bean。</br>
 单例在Spring的同一个容器内只会被创建一次，后续在获取bean直接从单例缓存中获取
 在创建单例bean的时候会存在依赖注入的情况，而在创建依赖的时候为了避免循环依赖，Spring创建bean的原则是不等bean创建完成就会将bean的ObjectFactory提早曝光加入到缓存中，一旦下一个bean创建时需要依赖上个bean，则直接使用ObjectFactory。
+
+Spring Bean的生命周期</br>
+<a href="https://www.jianshu.com/p/3944792a5fff">Spring Bean生命周期</a></br>
+<a href="http://cxis.me/2017/02/12/Spring%E4%B8%ADBean%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/">Spring中Bean的生命周期</a></br>

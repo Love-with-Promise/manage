@@ -84,3 +84,5 @@ Java中整型常量数值的默认类型是int类型;Java中的浮点型常量�
 
 <a href="https://juejin.im/entry/5b0cb64e518825157476b4a9">重温数据结构：理解 B 树、B+ 树特点及使用场景</a></br>
 <a href="https://juejin.im/post/5a5d5c66f265da3e261bf46c">String,StringBuffer, StringBuilder 的区别</a></br>
+<a href="https://juejin.im/post/5c788d986fb9a049f154e479">Java 最常见的 200+ 面试题：面试必备</a></br>
+<a href="https://segmentfault.com/a/1190000016376773#articleHeader0">必备Linux常用指令（实例）</a></br>

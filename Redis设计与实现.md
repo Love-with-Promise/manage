@@ -62,3 +62,5 @@
 <li>获得元素分数:zscore key member</li>
 </ul>
 Redis数据库保存的键值对来说，键总是一个字符串对象，而值则可以是字符串对象、列表对象、哈希对象、集合对象、或者有序集合对象的其中一种。
+<a href="https://juejin.im/post/5b70dfcf518825610f1f5c16#heading-4">Redis的持久化原理</a></br>
+<a href="https://segmentfault.com/a/1190000002906345">Redis持久化</a></br>

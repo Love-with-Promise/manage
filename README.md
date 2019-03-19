@@ -11,10 +11,10 @@
 <a href="https://tech.meituan.com/mybatis_cache.html">聊聊MyBatis缓存机制</a></br>
 <a href="https://www.jianshu.com/p/210eab345423">线程池，这一篇或许就够了</a></br>
 <a href="https://www.cnblogs.com/dolphin0520/p/3811437.html">深入理解Java的接口和抽象类</a></br>
-
+<a href="https://www.cnblogs.com/chanshuyi/p/head_first_of_reflection.html">反射</a></br>
 <a href="https://www.cnblogs.com/chengxiao/p/6129630.html">图解排序算法(三)之堆排序</a></br>
 <a href="https://blog.csdn.net/LYJwonderful/article/details/80304660">堆的简单应用——TopK</a></br>
-
+<a href="https://segmentfault.com/a/1190000012926722">HashMap 源码详细分析(JDK1.8)</a></br>
 
 <3>常见笔试错误题</h3>
 <a href="https://www.cnblogs.com/superFish2016/p/6687549.html">try catch finally 执行顺序面试题总结</a></br>

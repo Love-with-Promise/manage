@@ -15,7 +15,8 @@
 <a href="https://www.cnblogs.com/chengxiao/p/6129630.html">图解排序算法(三)之堆排序</a></br>
 <a href="https://blog.csdn.net/LYJwonderful/article/details/80304660">堆的简单应用——TopK</a></br>
 <a href="https://segmentfault.com/a/1190000012926722">HashMap 源码详细分析(JDK1.8)</a></br>
-
+<a href="http://hackjutsu.com/2016/01/25/%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9E%E6%88%98/
+">HashMap 秒杀系统架构分析与实战JDK1.8)</a></br>
 <3>常见笔试错误题</h3>
 <a href="https://www.cnblogs.com/superFish2016/p/6687549.html">try catch finally 执行顺序面试题总结</a></br>
 <a href="https://blog.csdn.net/u012110719/article/details/46316627">面试题：short s1=1;s1=s1+1;有什么错？short s2=1;s2+=1;有什么错？</a></br>
